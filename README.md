@@ -27,7 +27,7 @@
   </ul>
 </div>
 
-Banco de dados usado: Firebase
+Banco de dados usado: <strong>Firebase</strong>
 
 
 
