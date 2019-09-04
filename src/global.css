@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+    color: lightslategray;
+}
+
+body {
+    background: #f2f2f2;
+    font: 14px sans-serif;
+    -webkit-font-smoothing: antialiased !important;
+}

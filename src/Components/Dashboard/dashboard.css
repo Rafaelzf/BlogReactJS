@@ -1,0 +1,48 @@
+div#dashboard {
+    width: 100%;
+    max-width: 630px;
+    margin: 20px auto 0;
+    padding: 30px;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #dacece;
+    display: flex;
+    flex-direction: column;
+}
+
+div#dashboard .user-info {
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+div#dashboard a {
+    padding: 10px 20px;
+    background: darkslateblue;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+div#dashboard a:hover {
+    background: rgb(45, 4, 92);
+}
+
+div#dashboard button {
+    padding: 10px 20px;
+    background: darkred;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #fff;
+    border: 0px;
+}
+
+div#dashboard button:hover {
+    background: rgb(65, 5, 5);
+}
